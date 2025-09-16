@@ -3,6 +3,9 @@
     <string-array name="pet_list">
         <item name = "petcare">Labrador</item>
         <item name = "pet">Dog</item>
+        <item name = "pet">Scooby</item>
+        <item name = "pet">Doo</item>
+        <item name = "pet">Courage</item>
     </string-array>
 
 
